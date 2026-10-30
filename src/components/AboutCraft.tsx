@@ -75,7 +75,7 @@ export const AboutCraft: React.FC = () => {
               </p>
 
               <a
-                href="https://wa.me/5491144381533?text=Hola%20Bazar%20el%20Pelado,%20quisiera%20hacer%20una%20consulta%20sobre%20sus%20productos"
+                href="https://wa.me/5491138521006?text=Hola%20Bazar%20el%20Pelado,%20quisiera%20hacer%20una%20consulta%20sobre%20sus%20productos"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full py-3 px-4 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl text-xs font-semibold flex items-center justify-center gap-2 transition-colors shadow-2xs"

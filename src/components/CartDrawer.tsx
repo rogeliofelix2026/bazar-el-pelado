@@ -18,7 +18,7 @@ interface CartDrawerProps {
 }
 
 // Store WhatsApp business number
-const DEFAULT_STORE_PHONE = '5491144381533';
+const DEFAULT_STORE_PHONE = '5491138521006';
 
 export const CartDrawer: React.FC<CartDrawerProps> = ({
   isOpen,

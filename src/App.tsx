@@ -18,7 +18,7 @@ import {
 } from './data/products';
 import { SlidersHorizontal, MessageCircle, ArrowUp } from 'lucide-react';
 
-const STORE_WHATSAPP = '5491144381533';
+const STORE_WHATSAPP = '5491138521006';
 
 export default function App() {
   // Cart state persisted in localStorage

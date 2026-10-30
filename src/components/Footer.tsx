@@ -64,7 +64,7 @@ export const Footer: React.FC = () => {
               Hacé clic abajo para escribirnos directamente y consultar disponibilidad o hacer tu pedido.
             </p>
             <a
-              href="https://wa.me/5491144381533?text=Hola%20Bazar%20el%20Pelado,%20quisiera%20hacer%20un%20pedido"
+              href="https://wa.me/5491138521006?text=Hola%20Bazar%20el%20Pelado,%20quisiera%20hacer%20un%20pedido"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-4 py-2 bg-emerald-600 hover:bg-emerald-500 text-white rounded-lg font-semibold transition-colors shadow-2xs"
